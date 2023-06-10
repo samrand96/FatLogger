@@ -15,7 +15,7 @@ Prepare to be amazed by the extensive range of foods FatLogger can handle. 🍔 
 Here are some screenshots showcasing the user interface and features of FatLogger:
 
 ## Home Screen
-![Home Screen](screenshots/home.jpeg)
+![Home Screen]<img src="screenshots/home.jpeg" alt="Home Screen" width="280" height="500"/>
 The home screen provides a user-friendly interface for capturing food photos and accessing nutritional information.
 
 ## Diary

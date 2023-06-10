@@ -1,4 +1,4 @@
-# 📲 What is FatLogger?
+# 📱 What is FatLogger?
 
 FatLogger is not just your ordinary Android app—it's a sophisticated tool designed to meet the needs of users who seek precise nutritional information about their meals. With its intuitive interface, users can effortlessly capture food photos, unlocking a wealth of comprehensive nutritional data at their fingertips. But FatLogger goes beyond that. It empowers users to maintain a meticulous log of their dietary choices, thanks to a convenient feature that allows them to save their food records in a dedicated diary. And that's not all—FatLogger provides a visualized analysis of eating habits, equipping users with valuable insights to make informed decisions about their nutrition.
 
@@ -22,6 +22,23 @@ FatLogger was not created in isolation. It was developed as part of the Open Sou
 - Hawzheen Mohammed Ali (Student ID: 2120226104, Email: hawzheen.ali11@gmail.com)
 
 Their combined expertise and unwavering dedication have led to the creation of a remarkable application that exemplifies academic and professional excellence.
+
+# 📲 How To Download Release?
+
+To get started with FatLogger Android Universal V1.0alpha, follow these steps:
+
+1. Visit the [Releases](https://github.com/samrandhaji/FatLogger/releases) page of the FatLogger repository on GitHub.
+2. Locate the latest release, which should be labeled "Android Universal V1.0alpha."
+3. Click on the release to access the release details.
+4. Scroll down to the Assets section, where you will find the downloadable release package.
+5. Download the package that corresponds to your Android device.
+6. Once the download is complete, install the FatLogger application on your Android device.
+7. Launch the app and grant any necessary permissions to ensure seamless functionality.
+8. You are now ready to capture food photos, explore nutritional information, and utilize the various features offered by FatLogger.
+
+We recommend regularly checking the [Releases](https://github.com/samrandhaji/FatLogger/releases) page for updates and new releases to ensure you have the latest version of FatLogger with all the enhancements and bug fixes.
+
+Join the FatLogger community, take control of your nutrition, and embark on a journey towards a healthier lifestyle!
 
 # 🎯 Conclusion
 
